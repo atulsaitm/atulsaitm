@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsaitm&repo=PortfolioWeb&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/atulsaitm/FullStack-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsaitm&repo=FullStack-Projects&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsaitm&repo=ZenSec&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
