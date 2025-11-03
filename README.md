@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E31837&vCenter=true&width=300&lines=ATUL+HACKS" alt="Typing SVG" style="display: block; margin: 0 auto;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E31837&vCenter=true&width=300&lines=think+wise" alt="Typing SVG" style="display: block; margin: 0 auto;" />
 
 <br>
 
